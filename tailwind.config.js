@@ -5,8 +5,13 @@ export default {
     './index.html'
   ],
   theme: {
-    extend: {},
+    extend: {
+      boxShadow: {
+        neu: '20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;'
+      },
+    },
   },
   plugins: [],
+
 }
 

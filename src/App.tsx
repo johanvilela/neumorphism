@@ -3,8 +3,33 @@ import './styles/global.css'
 function App() {
 
   return (
-    <div className='text-center'>
-      <h1>Web Template</h1>
+    <div className='h-screen bg-[#ffffff]  flex justify-center items-center'>
+      <div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+      </div>
+      <div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+      </div>
+      <div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+      </div>
+      <div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+        <div className='h-52 w-52  rounded-lg shadow-neu m-2'></div>
+      </div>
+
+
     </div>
   )
 }
